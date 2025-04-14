@@ -1,0 +1,44 @@
+
+Estudante
+Codigo = 1
+Nome = Clayton Bazar
+Teste 1= 15.0
+Teste 2 = 15.0
+Media = 15.0
+
+Estudante
+Codigo = 2
+Nome = Iwanka
+Teste 1= 18.0
+Teste 2 = 14.0
+Media = 16.0
+
+Estudante
+Codigo = 3
+Nome = Liria
+Teste 1= 14.0
+Teste 2 = 12.0
+Media = 13.0
+
+
+
+Estudante
+Codigo = 1
+Nome = Clayton Bazar
+Teste 1= 15.0
+Teste 2 = 15.0
+Media = 15.0
+
+Estudante
+Codigo = 2
+Nome = Iwanka
+Teste 1= 18.0
+Teste 2 = 14.0
+Media = 16.0
+
+Estudante
+Codigo = 3
+Nome = Liria
+Teste 1= 14.0
+Teste 2 = 12.0
+Media = 13.0

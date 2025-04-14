@@ -10,7 +10,6 @@ public class Estudante implements Comparable<Estudante>{
         this.teste1 = teste1;
         this.teste2 = teste2;
     }
-
     public int getCodigo() {
         return codigo;
     }
@@ -42,20 +41,19 @@ public class Estudante implements Comparable<Estudante>{
     public void setTeste2(double teste2) {
         this.teste2 = teste2;
     }
-
     @Override
     public int compareTo(Estudante outroEstudante) {
         return Integer.compare(this.codigo, outroEstudante.codigo);
     }
 
-    private double calcularMedia(){
+    public double calcularMedia(){
         return (this.teste1 + teste2) / 2;
     }
     @Override
     public String toString() {
         return "\nEstudante" +
                 "\nCodigo = " + codigo +
-                "\nNome = " + nome + '\'' +
+                "\nNome = " + nome +
                 "\nTeste 1= " + teste1 +
                 "\nTeste 2 = " + teste2 +
                 "\nMedia = " + calcularMedia();
